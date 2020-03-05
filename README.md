@@ -1,0 +1,2 @@
+# Platzi-DataScienceAmazon
+Se va a realizar una recopilación de datos de la web de Amazon, ver características de los productos, se convertirá en un DataFrame, una vez que se tenga el DataFrame aplicaremos técnicas de Machine Learning Supervisado K-Means, para poder identificar diferente clusters de producto, le pondremos en una api y desarrollaremos una aplicación para interactuar con la información
